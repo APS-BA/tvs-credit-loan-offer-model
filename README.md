@@ -67,8 +67,10 @@ no EMI history and keep the incumbent offer.
 ## Repository contents
 
 ```
-Submission_Deck.pptx     Competition submission (cover + 2 pages)
-Method_Report.docx       Data, governance, models, metric, iterations and results
+Submission_Deck.pdf      Competition submission (cover + 2 pages), previews on GitHub
+Submission_Deck.pptx     Editable deck
+Method_Report.pdf        Data, governance, models, metric, iterations and results
+Method_Report.docx       Editable report
 Analysis_Workbook.xlsx   Diagnostic, model comparison, risk drivers, metric ladder,
                          sensitivity, holdout quintiles and assumptions
 ```
